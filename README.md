@@ -1,6 +1,13 @@
-# exam_schedule_app
+# Exam Schedule Application
 
 A new Flutter project.
+
+## Application Demo
+
+
+https://github.com/user-attachments/assets/fea2fab4-5942-4420-89d4-cf5cef795c54
+
+
 
 ## Getting Started
 
